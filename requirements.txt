@@ -1,0 +1,26 @@
+# Requirements for Federated Learning and Medical Data Processing
+
+# Core Libraries
+numpy
+scipy
+pandas
+scikit-learn
+tensorflow
+pytorch
+
+# Federated Learning Libraries
+flask
+flask-restful
+syft
+
+# Medical Data Processing Libraries
+nibabel
+torchio
+SimpleITK
+pydicom
+matplotlib
+seaborn
+
+# Data Handling Libraries
+pyarrow
+h5py
